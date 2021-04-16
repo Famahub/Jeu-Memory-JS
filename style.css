@@ -1,0 +1,9 @@
+body {
+    background-image: url('image/fon2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+    audio {
+        display: none;
+  }
